@@ -1,2 +1,2 @@
 # Bakery
-Bakery- Relationships between baked goods using MBA, Holt-winters and Sarima
+Bakery-  Sales prediction using MBA, Holt-winters and Sarima
